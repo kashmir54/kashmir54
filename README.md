@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashmir54&show_icons=true&theme=nightowl)
 
-👋 Hi, I’m @kashmir55, I'm currently working on improving my hacking skills through CTFs and HackTheBox machines.
+👋 Hi, I’m @kashmir54, I'm currently working on improving my hacking skills through CTFs and HackTheBox machines.
 you can check out my GitHub website at [kashmir.github.io](https://kashmir54.github.io/). Hope you find it interesting!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kashmir54&repo=kashmir54.github.io&theme=nightowl)](https://github.com/kashmir54/kashmir54.github.io)
